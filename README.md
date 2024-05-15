@@ -2,6 +2,10 @@
 
 `NIM : 2341727003`
 
+`Link Vercel`
+
+https://09-nextjs-database-zeta.vercel.app/
+
 # Praktikum 1: Setup Database dan Fetching Data
 
 Berhasil deploy di server Vercel
