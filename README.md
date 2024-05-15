@@ -1,4 +1,4 @@
-![srcapppage](https://github.com/diasrachma/09-nextjs-database/assets/112748414/080c6827-bff1-4d21-bb24-adf78c626fb1)`Nama : Dias Rachma Rosalina`
+`Nama : Dias Rachma Rosalina`
 
 `NIM : 2341727003`
 
